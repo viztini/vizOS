@@ -1,7 +1,7 @@
 # vizOS
 
 vizOS is an operating system heavliy based of Feltix, written in C, with the primary focus on simplicity, modularity, and usablility.
-Feltix is not intended for production use.
+vizOS is not intended for production use.
 
 ---
 
